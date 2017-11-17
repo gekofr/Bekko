@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "276097244313",
+    "firebase_url": "https://bekko-47984.firebaseio.com",
+    "project_id": "bekko-47984",
+    "storage_bucket": "bekko-47984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276097244313:android:f7a244696c781729",
+        "android_client_info": {
+          "package_name": "vikings.com.bekko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276097244313-jp545m4lplku398fdf5r17vfni1ikrmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAS-WWyUTpIkfjTAQgq8AH5Umo9cHR1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
